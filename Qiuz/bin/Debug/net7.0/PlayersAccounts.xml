@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Players>
+  <Player Login="kashapasha">
+    <Password>111</Password>
+    <DateOfBirth>23.01.1900</DateOfBirth>
+    <QuizzesHistory />
+  </Player>
+  <Player Login="lifeforaiur">
+    <Password>333221</Password>
+    <DateOfBirth>10.04.2005</DateOfBirth>
+    <QuizzesHistory>
+      <QuizHistory>
+        <ThemeName>Танки</ThemeName>
+        <Score>1</Score>
+        <DateOfStart>9.9.2023	8:49:18</DateOfStart>
+        <DateOfEnd>9.9.2023	8:49:20</DateOfEnd>
+      </QuizHistory>
+      <QuizHistory>
+        <ThemeName>Танки</ThemeName>
+        <Score>1</Score>
+        <DateOfStart>9.9.2023	8:51:32</DateOfStart>
+        <DateOfEnd>9.9.2023	8:51:34</DateOfEnd>
+      </QuizHistory>
+      <QuizHistory>
+        <ThemeName>Танки</ThemeName>
+        <Score>0</Score>
+        <DateOfStart>9.9.2023	9:56:52</DateOfStart>
+        <DateOfEnd>9.9.2023	9:56:55</DateOfEnd>
+      </QuizHistory>
+      <QuizHistory>
+        <ThemeName>Танки</ThemeName>
+        <Score>1</Score>
+        <DateOfStart>9.9.2023	9:57:5</DateOfStart>
+        <DateOfEnd>9.9.2023	9:57:8</DateOfEnd>
+      </QuizHistory>
+      <QuizHistory>
+        <ThemeName>Муравьи</ThemeName>
+        <Score>0</Score>
+        <DateOfStart>9.9.2023	20:54:6</DateOfStart>
+        <DateOfEnd>9.9.2023	20:54:31</DateOfEnd>
+      </QuizHistory>
+      <QuizHistory>
+        <ThemeName>Муравьи</ThemeName>
+        <Score>1</Score>
+        <DateOfStart>9.9.2023	20:55:25</DateOfStart>
+        <DateOfEnd>9.9.2023	20:55:28</DateOfEnd>
+      </QuizHistory>
+      <QuizHistory>
+        <ThemeName>Муравьи</ThemeName>
+        <Score>0</Score>
+        <DateOfStart>9.9.2023	21:6:37</DateOfStart>
+        <DateOfEnd>9.9.2023	21:6:56</DateOfEnd>
+      </QuizHistory>
+      <QuizHistory>
+        <ThemeName>Муравьи</ThemeName>
+        <Score>0</Score>
+        <DateOfStart>9.9.2023	21:9:14</DateOfStart>
+        <DateOfEnd>9.9.2023	21:9:25</DateOfEnd>
+      </QuizHistory>
+      <QuizHistory>
+        <ThemeName>Муравьи</ThemeName>
+        <Score>1</Score>
+        <DateOfStart>9.9.2023	21:13:38</DateOfStart>
+        <DateOfEnd>9.9.2023	21:13:59</DateOfEnd>
+      </QuizHistory>
+      <QuizHistory>
+        <ThemeName>Муравьи</ThemeName>
+        <Score>3</Score>
+        <DateOfStart>9.9.2023	21:19:39</DateOfStart>
+        <DateOfEnd>9.9.2023	21:20:3</DateOfEnd>
+      </QuizHistory>
+      <QuizHistory>
+        <ThemeName>Муравьи</ThemeName>
+        <Score>1</Score>
+        <DateOfStart>10.9.2023	8:57:47</DateOfStart>
+        <DateOfEnd>10.9.2023	8:58:26</DateOfEnd>
+      </QuizHistory>
+      <QuizHistory>
+        <ThemeName>Муравьи</ThemeName>
+        <Score>2</Score>
+        <DateOfStart>10.9.2023	8:59:13</DateOfStart>
+        <DateOfEnd>10.9.2023	8:59:31</DateOfEnd>
+      </QuizHistory>
+      <QuizHistory>
+        <ThemeName>Муравьи</ThemeName>
+        <Score>0</Score>
+        <DateOfStart>10.9.2023	9:44:23</DateOfStart>
+        <DateOfEnd>10.9.2023	9:44:26</DateOfEnd>
+      </QuizHistory>
+      <QuizHistory>
+        <ThemeName>Муравьи</ThemeName>
+        <Score>0</Score>
+        <DateOfStart>10.9.2023	10:10:4</DateOfStart>
+        <DateOfEnd>10.9.2023	10:10:8</DateOfEnd>
+      </QuizHistory>
+      <QuizHistory>
+        <ThemeName>2</ThemeName>
+        <Score>1</Score>
+        <DateOfStart>10.9.2023	17:42:1</DateOfStart>
+        <DateOfEnd>10.9.2023	17:42:2</DateOfEnd>
+      </QuizHistory>
+      <QuizHistory>
+        <ThemeName>Mixed quiz</ThemeName>
+        <Score>3</Score>
+        <DateOfStart>10.9.2023	18:5:50</DateOfStart>
+        <DateOfEnd>10.9.2023	18:6:12</DateOfEnd>
+      </QuizHistory>
+      <QuizHistory>
+        <ThemeName>Муравьи</ThemeName>
+        <Score>1</Score>
+        <DateOfStart>10.9.2023	22:47:45</DateOfStart>
+        <DateOfEnd>10.9.2023	22:47:51</DateOfEnd>
+      </QuizHistory>
+    </QuizzesHistory>
+  </Player>
+  <Player Login="aaa">
+    <Password>111</Password>
+    <DateOfBirth>01.01.1000</DateOfBirth>
+    <QuizzesHistory>
+      <QuizHistory>
+        <ThemeName>Муравьи</ThemeName>
+        <Score>2</Score>
+        <DateOfStart>10.9.2023	22:24:33</DateOfStart>
+        <DateOfEnd>10.9.2023	22:24:55</DateOfEnd>
+      </QuizHistory>
+    </QuizzesHistory>
+  </Player>
+</Players>

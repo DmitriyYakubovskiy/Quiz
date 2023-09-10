@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Themes>
+  <Theme NameTheme="Муравьи">
+    <Description>Про муравьев России</Description>
+    <TaskBlock>
+      <Task>
+        <Question>Самый большой муравей России (род вид)?</Question>
+        <Answers>
+          <Answer>Camponotus japonicus</Answer>
+        </Answers>
+      </Task>
+      <Task>
+        <Question>Пробкоголовые муравьи России (род вид)</Question>
+        <Answers>
+          <Answer>Colobopsis truncata</Answer>
+        </Answers>
+      </Task>
+      <Task>
+        <Question>Какой род муравьев является рабовладельцем (род)?</Question>
+        <Answers>
+          <Answer>Rossomyrmex</Answer>
+          <Answer>Formica</Answer>
+        </Answers>
+      </Task>
+    </TaskBlock>
+  </Theme>
+  <Theme NameTheme="Mixed quiz">
+    <Description>Quiz with questions from all quizzes</Description>
+    <TaskBlock />
+  </Theme>
+  <Theme NameTheme="Животные">
+    <Description>Про животных для детей</Description>
+    <TaskBlock>
+      <Task>
+        <Question>Как называют детёныша курицы?</Question>
+        <Answers>
+          <Answer>Цыпленок</Answer>
+        </Answers>
+      </Task>
+      <Task>
+        <Question>Человек кушает ртом, а птицы:</Question>
+        <Answers>
+          <Answer>Клювом</Answer>
+        </Answers>
+      </Task>
+      <Task>
+        <Question>Весь в иголках и колючий, но обитает под водой, кто это?</Question>
+        <Answers>
+          <Answer>морской еж</Answer>
+          <Answer>морской ёж</Answer>
+        </Answers>
+      </Task>
+      <Task>
+        <Question>У какого водного представителя много ног?</Question>
+        <Answers>
+          <Answer>Осьминог</Answer>
+        </Answers>
+      </Task>
+      <Task>
+        <Question>Птица, в названии которой сорок &lt;а&gt;?</Question>
+        <Answers>
+          <Answer>Сорока</Answer>
+        </Answers>
+      </Task>
+      <Task>
+        <Question>Как звали мальчика, которого воспитали животные?</Question>
+        <Answers>
+          <Answer>Маугли</Answer>
+        </Answers>
+      </Task>
+      <Task>
+        <Question>Как называли курицу, которая снесла золотое яйцо?</Question>
+        <Answers>
+          <Answer>Ряба</Answer>
+        </Answers>
+      </Task>
+      <Task>
+        <Question>Самая большая хищная рыба?</Question>
+        <Answers>
+          <Answer>Акула</Answer>
+        </Answers>
+      </Task>
+      <Task>
+        <Question>В какой сезон птицы улетают на юга?</Question>
+        <Answers>
+          <Answer>Осень</Answer>
+        </Answers>
+      </Task>
+      <Task>
+        <Question>Кто отбрасывает хвост, когда боится?</Question>
+        <Answers>
+          <Answer>Ящерица</Answer>
+        </Answers>
+      </Task>
+      <Task>
+        <Question>Какое самое медлительное животное?</Question>
+        <Answers>
+          <Answer>Ленивец</Answer>
+        </Answers>
+      </Task>
+      <Task>
+        <Question>Какая птица хорошо видит в темноте?</Question>
+        <Answers>
+          <Answer>Сова</Answer>
+        </Answers>
+      </Task>
+      <Task>
+        <Question>Кто является самой большой кошкой на планете?</Question>
+        <Answers>
+          <Answer>Тигр</Answer>
+        </Answers>
+      </Task>
+      <Task>
+        <Question>Какое сухопутное животное наиболее широко открывает рот?</Question>
+        <Answers>
+          <Answer>Бегемот</Answer>
+        </Answers>
+      </Task>
+      <Task>
+        <Question>Кто является самым крупным животным на Земле?</Question>
+        <Answers>
+          <Answer>Синий кит</Answer>
+        </Answers>
+      </Task>
+      <Task>
+        <Question>Какое млекопитающее умеет летать?</Question>
+        <Answers>
+          <Answer>Летучая мышь</Answer>
+        </Answers>
+      </Task>
+      <Task>
+        <Question>Кто из животных носит сумку?</Question>
+        <Answers>
+          <Answer>кенгуру</Answer>
+          <Answer>сумчатые</Answer>
+        </Answers>
+      </Task>
+    </TaskBlock>
+  </Theme>
+</Themes>
