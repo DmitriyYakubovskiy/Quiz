@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\Exam\\Qiuz\\Qiuz\\Qiuz.csproj": {}
+    "D:\\Programming\\Exam\\Quiz\\Qiuz\\Qiuz.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\Exam\\Qiuz\\Qiuz\\Qiuz.csproj": {
+    "D:\\Programming\\Exam\\Quiz\\Qiuz\\Qiuz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\Exam\\Qiuz\\Qiuz\\Qiuz.csproj",
+        "projectUniqueName": "D:\\Programming\\Exam\\Quiz\\Qiuz\\Qiuz.csproj",
         "projectName": "Qiuz",
-        "projectPath": "D:\\Programming\\Exam\\Qiuz\\Qiuz\\Qiuz.csproj",
+        "projectPath": "D:\\Programming\\Exam\\Quiz\\Qiuz\\Qiuz.csproj",
         "packagesPath": "C:\\Users\\yakub\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\Exam\\Qiuz\\Qiuz\\obj\\",
+        "outputPath": "D:\\Programming\\Exam\\Quiz\\Qiuz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yakub\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -26,3 +26,17 @@ D:\Programming\Exam\Qiuz\Qiuz\obj\Debug\net7.0\refint\Qiuz.dll
 D:\Programming\Exam\Qiuz\Qiuz\obj\Debug\net7.0\Qiuz.pdb
 D:\Programming\Exam\Qiuz\Qiuz\obj\Debug\net7.0\Qiuz.genruntimeconfig.cache
 D:\Programming\Exam\Qiuz\Qiuz\obj\Debug\net7.0\ref\Qiuz.dll
+D:\Programming\Exam\Quiz\Qiuz\bin\Debug\net7.0\Qiuz.exe
+D:\Programming\Exam\Quiz\Qiuz\bin\Debug\net7.0\Qiuz.deps.json
+D:\Programming\Exam\Quiz\Qiuz\bin\Debug\net7.0\Qiuz.runtimeconfig.json
+D:\Programming\Exam\Quiz\Qiuz\bin\Debug\net7.0\Qiuz.dll
+D:\Programming\Exam\Quiz\Qiuz\bin\Debug\net7.0\Qiuz.pdb
+D:\Programming\Exam\Quiz\Qiuz\obj\Debug\net7.0\Qiuz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Exam\Quiz\Qiuz\obj\Debug\net7.0\Qiuz.AssemblyInfoInputs.cache
+D:\Programming\Exam\Quiz\Qiuz\obj\Debug\net7.0\Qiuz.AssemblyInfo.cs
+D:\Programming\Exam\Quiz\Qiuz\obj\Debug\net7.0\Qiuz.csproj.CoreCompileInputs.cache
+D:\Programming\Exam\Quiz\Qiuz\obj\Debug\net7.0\Qiuz.dll
+D:\Programming\Exam\Quiz\Qiuz\obj\Debug\net7.0\refint\Qiuz.dll
+D:\Programming\Exam\Quiz\Qiuz\obj\Debug\net7.0\Qiuz.pdb
+D:\Programming\Exam\Quiz\Qiuz\obj\Debug\net7.0\Qiuz.genruntimeconfig.cache
+D:\Programming\Exam\Quiz\Qiuz\obj\Debug\net7.0\ref\Qiuz.dll
